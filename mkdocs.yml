@@ -1,0 +1,16 @@
+
+---
+
+### ✅ Step 3: `mkdocs.yml` Configuration
+
+```yaml
+site_name: Python Data Structures
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Singly and Doubly Linked List: linked_list.md
+  - Stack: stack.md
+  - Queue: queue.md
+  - Binary Tree: binary_tree.md
