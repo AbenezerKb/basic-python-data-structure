@@ -5,7 +5,7 @@
 
 ```markdown
 # Stack
-
+```
 A basic stack implementation using a Python list.
 
 ## Features
@@ -24,3 +24,4 @@ class Stack:
     def __init__(self, para=[]):
         self.stack = para
     ...
+```

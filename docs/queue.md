@@ -5,7 +5,7 @@
 
 ```markdown
 # Queue
-
+```
 A custom queue with a fixed maximum size.
 
 ## Features
@@ -25,3 +25,4 @@ class MyQueue:
         self.queue = queue
         self.size = size
     ...
+```

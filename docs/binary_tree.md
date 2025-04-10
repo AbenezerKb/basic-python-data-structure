@@ -5,7 +5,7 @@
 
 ```markdown
 # Binary Tree
-
+```
 A binary search tree (BST) implementation in Python.
 
 ## Features
@@ -25,3 +25,4 @@ class BinaryTree:
     def __init__(self):
         self.root = None
     ...
+```

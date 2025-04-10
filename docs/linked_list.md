@@ -21,14 +21,14 @@ class Node:
 
 class LinkedList:
     ...
-
+```
 ---
 
 #### `docs/doubly_linked_list.md`
 
 ```markdown
 # Doubly Linked List
-
+```
 A doubly linked list where each node points to both the next and the previous node.
 
 ## Features
@@ -54,3 +54,4 @@ class DoublyLinkedList:
     ...
 
 ---
+```
