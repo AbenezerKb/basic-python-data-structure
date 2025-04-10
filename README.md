@@ -165,7 +165,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you have any questions or suggestions, feel free to open an issue on GitHub or contact me directly:
 
 - **Email**: aben.jacob3@gmail.com
-- **GitHub**: [@AbenezerAngamo](https://github.com/your-username)
+- **GitHub**: [@AbenezerKb](https://github.com/AbenezerKb)
 
 ---
 
