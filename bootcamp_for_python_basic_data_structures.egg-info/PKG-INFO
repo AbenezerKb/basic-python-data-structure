@@ -1,12 +1,12 @@
 Metadata-Version: 2.1
-Name: python-basic-data-structures
+Name: bootcamp-for-python-basic-data-structures
 Version: 0.0.1
 Summary: A collection of basic data structures in Python
-Home-page: https://github.com/AbenezerAngamo/data-structures-python
+Home-page: https://abenezerkb.github.io/basic-python-data-structure/
 Author: Abenezer Angamo
 Author-email: aben.jacob3@gmail.com
 License: UNKNOWN
-Description: # My Data Structures
+Description: # Python Data Structures
         
         A Python package that provides implementations of common data structures such as:
         
@@ -35,7 +35,7 @@ Description: # My Data Structures
         You can install the package using `pip`:
         
         ```bash
-        pip install my-data-structures
+        pip install python-basic-data-structures
         ```
         
         ---
@@ -70,7 +70,7 @@ Description: # My Data Structures
         To use the Doubly Linked List:
         
         ```python
-        from my_data_structures.doubly_linked_list import DoublyLinkedList
+        from my_data_structures.linked_list import DoublyLinkedList
         
         # Create a DoublyLinkedList
         dll = DoublyLinkedList()
@@ -173,7 +173,7 @@ Description: # My Data Structures
         If you have any questions or suggestions, feel free to open an issue on GitHub or contact me directly:
         
         - **Email**: aben.jacob3@gmail.com
-        - **GitHub**: [@AbenezerAngamo](https://github.com/your-username)
+        - **GitHub**: [@AbenezerKb](https://github.com/AbenezerKb)
         
         ---
         
